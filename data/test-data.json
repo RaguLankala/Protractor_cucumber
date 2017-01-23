@@ -1,0 +1,12 @@
+{
+		"baseUrl": "https://poa-apphub-qa.run.asv-pr.ice.predix.io",
+		"username": "poaQAuser",
+		"password": "PoaforQ3A",
+		"timeOut": 30000,
+		"atlantisAssociateTrend1": "ATT_TI164024A.PV",
+		"atlantisAssociateTrend2": "ATT_TI164025A.PV",
+		"atlantisAssociateTrend3": "ATT_TI164026A.PV",
+		"atlantisAssociateTrend4": "ATT_TI164027A.PV",
+		"atlantisAssociateTrend5": "ATT_TXI16401.PV"
+
+}
